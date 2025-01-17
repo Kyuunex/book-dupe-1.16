@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "book-dupe",
+	"version": "${version}",
+	"name": "BookDupe",
+	"description": "1.16 book dupe",
+	"authors": [
+		"Kyuunex"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/book-dupe/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"moe.kyuunex.book_dupe.BookDupe"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.16.5",
+		"java": ">=8",
+		"fabric": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
