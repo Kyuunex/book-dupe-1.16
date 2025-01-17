@@ -8,8 +8,8 @@
 		"Kyuunex"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/Kyuunex/book-dupe-1.16",
+		"sources": "https://github.com/Kyuunex/book-dupe-1.16"
 	},
 	"license": "GPL-3.0",
 	"icon": "assets/book-dupe/icon.png",
